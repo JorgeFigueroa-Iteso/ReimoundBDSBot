@@ -315,5 +315,5 @@ These are the commands:`)
 
 
 
-
-client.login("");
+TOKEN=""
+client.login(TOKEN);
